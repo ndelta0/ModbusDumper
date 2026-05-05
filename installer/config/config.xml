@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>ModbusDumper</Name>
+    <Version>1.0.0</Version>
+    <Title>ModbusDumper Setup</Title>
+    <Publisher>Knowledge Sp. z o.o.</Publisher>
+    <ProductUrl>https://knowledge.pl</ProductUrl>
+
+    <StartMenuDir>ModbusDumper</StartMenuDir>
+    <TargetDir>@ApplicationsDir@/ModbusDumper</TargetDir>
+
+    <WizardStyle>Modern</WizardStyle>
+</Installer>

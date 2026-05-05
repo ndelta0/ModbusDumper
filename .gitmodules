@@ -1,0 +1,3 @@
+[submodule "external/xw32ble"]
+	path = external/xw32ble
+	url = https://github.com/ndelta0/lib_xw32ble
